@@ -40,12 +40,15 @@ Please note that these figures are factual but for illustrative purposes only. T
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 **Present Expense = ₹ 20 Billion**
 
 **After this implementation =** ₹ 1 Billion (API Charge) + ₹ 9 Billion (Compensation for Insured Accidents) **=** **₹ 10 Billion**
 
 (Rough Estimation)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 In this rough example, the API charge  (Rs. 1 billion) for tracking vehicles passing through traffic cameras might be significantly lower than the total compensation cost (Rs. 20 billion) required for accidents involving uninsured vehicles. This indicates that, at these assumptions, the API charge alone might not be able to cover the full compensation expenses.
 
