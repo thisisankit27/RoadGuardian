@@ -13,8 +13,9 @@ Please note that these figures are factual but for illustrative purposes only. T
 3. Average compensation per accident: Rs. 100,000 (₹50,000 (in case of grievous injury) and ₹2,00,000 (in case of death))
 4. API charge per vehicle: Rs. 4
 
+![](https://imgur.com/6ai9dWb.png)
 
-
+![](https://imgur.com/QwmngAj.png)
 
 ([Article](https://indianexpress.com/article/business/economy/16-54-cr-vehicles-plying-in-country-are-uninsured-mos-finance-bhagwat-karad/) by The Indian EXPRESS)
 
@@ -23,9 +24,11 @@ Please note that these figures are factual but for illustrative purposes only. T
 1. Number of accidents involving uninsured vehicles per year: 50% of 4,00,000 = 2,00,000 accidents.
 2. Total compensation cost per year: 2,00,000 \* Rs. 100,000 = **Rs. 20 billion**
 
+![](https://imgur.com/7QU5eLy.png)
 
 ([Statistics](https://morth.nic.in/sites/default/files/RA_2021_Compressed.pdf) provided by MoRTH )
 
+![](https://imgur.com/n5trH9o.png)
 
 *([Article](https://www.thehindu.com/news/national/karnataka/indias-socio-economic-cost-of-road-accidents-in-2019-was-1571-billion-to-3881-billion-bosch/article37161481.ece) by The Hindu Newspaper)*
 
