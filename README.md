@@ -3,7 +3,7 @@
 # Low-Level Design of System
 
 <div style="text-align: center;">
-        <img src="LLD.jpg" alt="LLD" style="width: 75%; display: block; margin: 0 auto;">
+        <img src="LLD.jpg" alt="LLD" style="width: 100%; display: block; margin: 0 auto;">
 </div>
 
 # Feasibility Study
