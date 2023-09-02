@@ -1,5 +1,11 @@
 # RoadGuardian
 
+# Low-Level Design of System
+
+<div style="text-align: center;">
+        <img src="LLD.jpg" alt="LLD" style="width: 75%; display: block; margin: 0 auto;">
+</div>
+
 # Feasibility Study
 
 **A Rough sketch of the comparative cost analysis between implementing an API for tracking uninsured vehicles and the total compensation for road accidents involving uninsured vehicles requires specific data and assumptions.**
